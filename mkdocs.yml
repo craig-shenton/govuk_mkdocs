@@ -1,6 +1,6 @@
-site_name: API Guidelines
+site_name: GOVUK mkdocs example site
 site_url: https://craig-shenton.github.io/govuk_mkdocs/
-site_description: 'UKHSA API Guidelines'
+site_description: 'GOVUK mkdocs example site'
 site_author: 'Craig R Shenton'
 docs_dir: docs/
 repo_name: 'govuk_mkdocs'
