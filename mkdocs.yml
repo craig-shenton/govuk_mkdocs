@@ -1,0 +1,32 @@
+site_name: API Guidelines
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/images/logo-ukhsa-landscape-new.svg
+  favicon: assets/images/favicon-new.svg
+  palette:
+    primary: custom
+  font:
+    text: GDS Transport
+    code: Fira Code
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - API Standards: api-standards.md
+  - Auto API Docs: api-docs.md
+
+plugins:
+  - search
+  - mkdocstrings:
+      default_handler: python
+      handlers:
+        python:
+          paths: ["src"]
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
