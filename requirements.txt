@@ -112,7 +112,7 @@ pure-eval==0.2.2
 pycparser==2.21
 pydantic==1.8.2
 Pygments==2.19.1
-pymdown-extensions==10.15
+pymdown-extensions==10.16.1
 PyPDF2==3.0.1
 pyproj==3.5.0
 pyrsistent==0.19.3
