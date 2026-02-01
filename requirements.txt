@@ -38,7 +38,7 @@ fastjsonschema==2.16.3
 Fiona==1.9.3
 fqdn==1.5.1
 future @ file:///AppleInternal/Library/BuildRoots/bcce998f-ff34-11ef-9d34-f2a857e00a32/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
-geopandas==0.12.2
+geopandas==1.1.2
 ghp-import==2.1.0
 govuk-tech-docs-sphinx-theme==1.0.0
 griffe==1.7.3
